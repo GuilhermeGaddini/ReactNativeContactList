@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  primary: '#FC9208'\n};","map":{"version":3,"sources":["C:/Repositórios/ReactNativeContactList/constantes/Cores.js"],"names":["primary"],"mappings":"AAAA,eAAe;AACXA,EAAAA,OAAO,EAAE;AADE,CAAf","sourcesContent":["export default {\r\n    primary: '#FC9208'\r\n}"]},"metadata":{},"sourceType":"module"}
